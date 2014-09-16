@@ -13,7 +13,7 @@ The preliminary stages of the code are found in the Flowchart.
 ![alt text](https://raw.githubusercontent.com/aaronstolze/382Lab1/master/Flowchart.jpg "Flowchart")
 
 #Code
-After writing the code, I ran into a memory error.  As I understood it, the code would not fit into a certain area of memory.  I was not able to fix this problem so the code would not correctly run.
+While trying to implement the required functionality, I was unable to get the code to correctly run.  Whenever the code would begin to implement, there would be a memory error preventing the program from fully executing.  
 
 #Documentation
 
